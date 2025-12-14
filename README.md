@@ -1,5 +1,5 @@
-👋 hey there
-I’m Mathiyarasan P
+👋 Hey there
+<h2>I’m Mathiyarasan P</h2>
 
 Full Stack / MERN Stack Developer | React.js | Node.js
 

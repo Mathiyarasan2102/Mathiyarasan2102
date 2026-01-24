@@ -1,83 +1,115 @@
-<h3 align="center">👋 Hey there, I'm Mathiyarasan P</h3>
+<h2 align="center">Hi, I'm Mathiyarasan P 👋</h2>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Frontend+Developer+(React.js);MERN+Stack+Developer;Node.js+Backend+Enthusiast;Computer+Science+Graduate"
-    alt="Typing Animation"
-  />
+  <b>MERN Stack Developer</b> | React.js | Node.js | MongoDB <br />
+  📍 Trichy, Tamil Nadu, India
 </p>
 
 <p align="center">
-  <b>Full Stack / MERN Stack Developer</b> | React.js | Node.js | Express.js | MongoDB
+  I’m a MERN Stack Developer with internship experience building full-stack applications.
+  I enjoy creating clean UIs, secure backend APIs, and real-time features.
 </p>
 
-<h3>👨‍💻 About Me</h3>
+<hr />
+
+<h3>🔧 Tech Stack</h3>
 
 <ul>
-  <li>🎓 Computer Science graduate from Trichy, Tamil Nadu </li>
-  <li>💼 Actively seeking opportunities as a Frontend / MERN Stack Developer</li>
-  <li>🌱 Currently learning advanced React patterns, backend optimization & system design basics</li>
-  <li>⚡ In my free time, I build full-stack projects, explore new tools, and improve problem-solving skills</li>
+  <li><b>Frontend:</b> React.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3</li>
+  <li><b>Backend:</b> Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO</li>
+  <li><b>Database:</b> MongoDB, Mongoose</li>
+  <li><b>Tools:</b> Git, GitHub, Postman, Vercel</li>
 </ul>
 
-<h3>🛠️ Languages and Tools</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,html,css,tailwind,git,github,postman,vscode" />
-</p>
+<hr />
 
 <h3>🚀 Featured Projects</h3>
 
-<h3>🔹 Quick Chat App (Full Stack)</h3>
+<h4>🟦 NovaMart — Full Stack E-commerce Platform</h4>
+<p>
+  <b>Tech:</b> React.js, Node.js, Express.js, MongoDB, Redux Toolkit, Tailwind CSS, Cloudinary, PayPal
+</p>
 <ul>
-  <li>Real-time chat application using React, Node.js, Express, MongoDB & Socket.IO</li>
-  <li>Secure authentication with JWT & bcrypt</li>
-  <li>Responsive UI built with Tailwind CSS</li>
+  <li>Built a full-stack e-commerce platform with product catalog, cart, checkout, and order management.</li>
+  <li>Developed admin features for product CRUD, order tracking, and protected routes.</li>
+  <li>Integrated PayPal payment gateway for secure checkout and transaction handling.</li>
+  <li>Implemented Cloudinary image upload and optimized UI loading states for better UX.</li>
 </ul>
 
 <p>
-👉 Repo: <a href="https://github.com/Mathiyarasan2102/ChatApp">GitHub</a><br/>
-👉 Live: <a href="http://quick-chat-app-puce.vercel.app">Live Demo</a>
+  🔗 Repo:
+  <a href="https://github.com/Mathiyarasan2102/novamart-mern-ecommerce" target="_blank">
+    github.com/Mathiyarasan2102/novamart-mern-ecommerce
+  </a>
+  <br />
+  🔗 Live:
+  <a href="https://novamart-mern-ecommerce.vercel.app" target="_blank">
+    novamart-mern-ecommerce.vercel.app
+  </a>
 </p>
 
-<h3>🔹 Weather Forecast App</h3>
+<br />
+
+<h4>🟩 QuickChat — Real-Time Chat Application</h4>
+<p>
+  <b>Tech:</b> React.js, Node.js, Express.js, MongoDB, Socket.IO, Tailwind CSS, JWT, bcrypt
+</p>
 <ul>
-  <li>Real-time weather data using OpenWeatherMap API</li>
-  <li>Built with React Hooks, Axios & Tailwind CSS</li>
-  <li>Clean, responsive UI for all devices</li>
+  <li>Engineered a real-time messaging app using Socket.IO for instant bi-directional communication.</li>
+  <li>Implemented secure authentication using JWT + bcrypt and protected APIs with middleware.</li>
+  <li>Built a responsive UI with Tailwind CSS and optimized real-time message updates.</li>
 </ul>
 
 <p>
-👉 Repo: <a href="https://github.com/Mathiyarasan2102/Weather-App">GitHub</a><br/>
-👉 Live: <a href="https://weather-app-seven-eta-19.vercel.app">Live Demo</a>
+  🔗 Repo:
+  <a href="https://github.com/Mathiyarasan2102/ChatApp" target="_blank">
+    github.com/Mathiyarasan2102/ChatApp
+  </a>
+  <br />
+  🔗 Live:
+  <a href="http://quick-chat-app-puce.vercel.app" target="_blank">
+    quick-chat-app-puce.vercel.app
+  </a>
 </p>
 
-<h3>🎯 What I’m Looking For</h3>
+<hr />
+
+<h3>🎯 Open To Roles</h3>
 
 <ul>
-  <li>Frontend Developer (React.js) – Fresher / Intern / Trainee</li>
-  <li>MERN Stack Developer – Fresher / Intern / Trainee</li>
-  <li>Node.js / Backend Developer – Fresher / Intern / Trainee</li>
+  <li>Frontend Developer (React.js) — Intern / Fresher</li>
+  <li>MERN Stack Developer — Intern / Fresher</li>
+  <li>Backend Developer (Node.js) — Intern / Fresher</li>
 </ul>
 
-<p>
-I’m looking for a team where I can work on real projects, learn from experienced developers, and grow consistently.
-</p>
+<hr />
 
-<h3>🤝 Let’s Connect</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mathiyarasan-p">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Mathiyarasan2102">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
-  <a href="https://portfolio-web-site-seven-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-green?logo=vercel&logoColor=white" />
-  </a>
-</p>
+<h3>🤝 Connect With Me</h3>
 
 <p>
-⭐ I believe in consistency, clean code, and continuous learning. If you’re looking for a motivated fresher who understands real-world development fundamentals, let’s connect.
+  🔗 LinkedIn:
+  <a href="https://www.linkedin.com/in/mathiyarasan-p" target="_blank">
+    linkedin.com/in/mathiyarasan-p
+  </a>
+  <br />
+  🔗 GitHub:
+  <a href="https://github.com/Mathiyarasan2102" target="_blank">
+    github.com/Mathiyarasan2102
+  </a>
+  <br />
+  🔗 Portfolio:
+  <a href="https://portfolio-web-site-seven-alpha.vercel.app" target="_blank">
+    portfolio-web-site-seven-alpha.vercel.app
+  </a>
+  <br />
+  📩 Email:
+  <a href="mailto:mathiarasan.2102@gmail.com">
+    mathiarasan.2102@gmail.com
+  </a>
+</p>
+
+<hr />
+
+<p align="center">
+  ⭐ I focus on consistency, clean code, and building real-world projects.
 </p>

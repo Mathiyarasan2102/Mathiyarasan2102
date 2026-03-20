@@ -1,6 +1,6 @@
-# Hi there, I'm Mathiyarasan P 👋
-
 <div align="center">
+
+# Hi there, I'm Mathiyarasan P 👋
 
 ### 🚀 Full Stack Developer · MERN Stack · React.js · Node.js · MongoDB
 

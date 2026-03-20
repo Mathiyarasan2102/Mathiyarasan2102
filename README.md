@@ -96,20 +96,6 @@ A real-time messaging app with instant communication, secure auth, and online pr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mathiyarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathiyarasan2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiyarasan2102&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathiyarasan2102&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💼 Experience
 
 **MERN Stack Developer Intern** · Least Action Company Pvt. Ltd. · Remote

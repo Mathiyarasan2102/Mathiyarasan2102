@@ -1,105 +1,151 @@
-<h1 align="center">Hi, I'm Mathiyarasan P 👋</h1>
+# Hi there, I'm Mathiyarasan P 👋
 
-<p align="center">
-  <b>MERN Stack Developer</b> | React.js | Node.js | Express.js | MongoDB  
-  <br />
-  📍 Trichy, Tamil Nadu, India
-</p>
+<div align="center">
 
-<p align="center">
-  Open to roles: <b>Frontend Developer (React.js)</b> | <b>MERN Stack Developer</b> | <b>Node.js Backend Developer</b>
-</p>
+### 🚀 Full Stack Developer · MERN Stack · React.js · Node.js · MongoDB
 
-<hr />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-site-seven-alpha.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyarasan-p)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathiyarasan2102)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiarasan.2102@gmail.com)
 
-<h3>👨‍💻 About Me</h3>
-<p>
-I’m a <b>MERN Stack Developer</b> with internship experience building real-world, full-stack web applications.
-I enjoy creating <b>clean user interfaces</b>, <b>secure backend APIs</b>, and <b>real-time features</b>.
-</p>
+📍 Trichy, Tamil Nadu · 🟢 Open to Work · ⚡ Immediate Joiner
 
-<p>
-I have hands-on experience delivering features such as authentication, role-based access, dashboards,
-payments, and live chat while following clean code and Git best practices.
-</p>
+</div>
 
-<hr />
+---
 
-<h3>🛠 Tech Stack</h3>
+## 👨‍💻 About Me
 
-<ul>
-  <li><b>Frontend:</b> React.js, Redux Toolkit (RTK), Tailwind CSS, HTML5, CSS3</li>
-  <li><b>Backend:</b> Node.js, Express.js, REST APIs, JWT Authentication, bcrypt, Socket.IO</li>
-  <li><b>Database:</b> MongoDB, Mongoose</li>
-  <li><b>API & Networking:</b> Axios</li>
-  <li><b>Tools & Platforms:</b> Git, GitHub, Postman, Vercel, VS Code</li>
-</ul>
+I'm a **MERN Stack Developer** with internship experience building and deploying production-grade full-stack web applications. I enjoy crafting **clean React UIs**, **scalable REST APIs**, and **real-time features** — and I care about writing code that actually works in production.
 
-<hr />
+- 🔭 Built & deployed **2 full-stack MERN applications** during my internship
+- 🌱 Currently exploring **Next.js**, **TypeScript**, and **AI API integration**
+- 💼 Looking for **Full Stack / MERN Stack / React Developer** roles (Fresher)
+- ⚡ Fun fact: I debug faster with coffee ☕
 
-<h3>🔥 What I Can Do</h3>
-<ul>
-  <li>Build responsive and scalable React applications</li>
-  <li>Develop RESTful APIs with Node.js and Express</li>
-  <li>Implement JWT-based authentication and protected routes</li>
-  <li>Design efficient MongoDB schemas</li>
-  <li>Create real-time features using Socket.IO</li>
-  <li>Work with Git/GitHub in Agile team environments</li>
-</ul>
+---
 
-<hr />
+## 🛠️ Tech Stack
 
-<h3>🚀 Featured Projects</h3>
+<div align="center">
 
-<h4>🛒 NovaMart — Full Stack E-commerce Platform</h4>
-<p><b>Tech:</b> React.js, Node.js, Express.js, MongoDB, Redux Toolkit, Tailwind CSS, Cloudinary, PayPal</p>
-<ul>
-  <li>Implemented product listing, cart, checkout, order tracking, and admin dashboard</li>
-  <li>Developed admin features for product CRUD, order management, and protected routes</li>
-  <li>Integrated PayPal for secure payment processing</li>
-  <li>Used Cloudinary for image uploads and optimized UI loading states</li>
-</ul>
-<p>
-  🔗 <a href="https://github.com/Mathiyarasan2102/novamart-mern-ecommerce">GitHub Repo</a> |
-  <a href="https://novamart-mern-ecommerce.vercel.app">Live Demo</a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<hr />
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-<h4>💬 QuickChat — Real-Time Messaging Application</h4>
-<p><b>Tech:</b> React.js, Node.js, Express.js, MongoDB, Socket.IO, Tailwind CSS, JWT, bcrypt</p>
-<ul>
-  <li>Built a real-time chat application with instant bi-directional communication</li>
-  <li>Implemented secure authentication using JWT and bcrypt</li>
-  <li>Optimized database queries and applied optimistic UI updates to reduce latency</li>
-</ul>
-<p>
-  🔗 <a href="https://github.com/Mathiyarasan2102/ChatApp">GitHub Repo</a> |
-  <a href="https://quick-chat-app-puce.vercel.app">Live Demo</a>
-</p>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<hr />
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+</div>
 
-<h3>🎯 What I’m Looking For</h3>
-<ul>
-  <li>Frontend Developer (React.js) — Fresher / Intern / Trainee</li>
-  <li>MERN Stack Developer — Fresher / Intern / Trainee</li>
-  <li>Backend Developer (Node.js) — Fresher / Intern / Trainee</li>
-</ul>
+---
 
-<hr />
+## 🚀 Featured Projects
 
-<h3>🤝 Let’s Connect</h3>
-<p>
-  📧 Email: <a href="mailto:mathiarasan.2102@gmail.com">mathiarasan.2102@gmail.com</a><br />
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/mathiyarasan-p">linkedin.com/in/mathiyarasan-p</a><br />
-  🌐 Portfolio: <a href="https://portfolio-web-site-seven-alpha.vercel.app">View Portfolio</a>
-</p>
+### 🛒 NovaMart — Full Stack E-Commerce Platform
+> React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Tailwind CSS · Cloudinary · PayPal
 
-<hr />
+A production-ready e-commerce platform with complete shopping flow, secure payments, and an admin dashboard.
 
-<p align="center">
-⭐ I believe in consistency, clean code, and continuous learning.  
-If you’re looking for a motivated entry-level developer who understands real-world development fundamentals, let’s connect.
-</p>
+| Feature | Detail |
+|---|---|
+| 🔐 Auth | JWT authentication with role-based access control |
+| 💳 Payments | PayPal payment gateway integration |
+| 🛠️ Admin | Full product & order management dashboard |
+| 📱 UI | Mobile-first responsive design with Tailwind CSS |
+| ☁️ Media | Cloudinary image upload & management |
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mathiyarasan2102/novamart-mern-ecommerce)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=vercel)](https://novamart-mern-ecommerce.vercel.app)
+
+---
+
+### 💬 QuickChat — Real-Time Chat Application
+> React.js · Node.js · Express.js · MongoDB · Socket.IO · Tailwind CSS · JWT · bcrypt
+
+A real-time messaging app with instant communication, secure auth, and online presence tracking.
+
+| Feature | Detail |
+|---|---|
+| ⚡ Real-Time | Bi-directional messaging via Socket.IO |
+| 🔐 Auth | JWT + bcrypt secure authentication |
+| 👥 Presence | Online/offline user status tracking |
+| 📱 UI | Responsive React components with Tailwind CSS |
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Mathiyarasan2102/ChatApp)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=flat-square&logo=vercel)](https://quick-chat-app-puce.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mathiyarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathiyarasan2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiyarasan2102&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathiyarasan2102&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Experience
+
+**MERN Stack Developer Intern** · Least Action Company Pvt. Ltd. · Remote
+`Oct 2025 – Jan 2026`
+
+- Built 20+ reusable React components with React Hooks & Tailwind CSS
+- Designed and implemented RESTful APIs with Node.js & Express.js
+- Implemented JWT authentication & role-based authorization
+- Managed global state with Redux Toolkit
+- Deployed 2 full-stack production applications on Vercel
+
+---
+
+## 🎓 Education & Certification
+
+🎓 **B.E. Computer Science & Engineering** — Mother Terasa College of Engineering & Technology `2022–2025` · CGPA: 7.5/10
+
+📜 **Full Stack Web Development with MERN Stack** — Error Makes Clever `May–Sep 2025`
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **Full Stack / MERN Stack / React Developer** roles.
+If you're hiring or know someone who is — let's talk!
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiarasan.2102@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyarasan-p)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-site-seven-alpha.vercel.app)
+
+---
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mathiyarasan2102&color=brightgreen&style=flat-square)
+
+</div>
